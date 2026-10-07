@@ -1,0 +1,5 @@
+# What `swansong pr review` briefs its reviewer with (#414): read from main,
+# never from the change. Name this project's own rules.
+rules: [CONTRIBUTING.md]
+cite_as: the rule's own heading or number
+checked_elsewhere: ""
